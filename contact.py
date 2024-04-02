@@ -22,5 +22,3 @@ st.markdown("[![Twitter Follow](https://img.shields.io/twitter/follow/ShadowSage
 st.markdown("[![GitHub followers](https://img.shields.io/github/followers/Kabuddy768?label=follow&style=social)](https://github.com/Kabuddy768)", unsafe_allow_html=True)
 st.markdown("[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-mwangi-a3b75b278/)", unsafe_allow_html=True)
 
-st.subheader("Find More Information")
-st.markdown("[Visit our Website](https://streamlit.io/)")
